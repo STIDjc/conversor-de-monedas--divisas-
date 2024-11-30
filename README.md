@@ -35,6 +35,38 @@ _para obtener el proyecto y poder utilizarlo se necesita lo siguiente:_
 - _Obten tu Api key: [`Exchangerate Api`](https://www.exchangerate-api.com/)._
 <img src="https://github.com/user-attachments/assets/a92bb94d-1b74-48ad-b5e9-2c340e2a210e" width="550">
 
+- _Después de ingresar su Email y regístrese. En el correo te llegará un correo el cual te dará acceso a tu API._ 
+<img src="https://github.com/user-attachments/assets/64a424ef-ed73-4227-abfe-1a553b4f3959" width="500">
+
+- _y podras encontar tu API key en este apartado._
+<img src="https://github.com/user-attachments/assets/fbaabe2b-06fa-4df1-83dd-b61419ce205e" width="550">
+
+# Abra y ejecute el archivo📂
+_despues de extraer el archivo, cree un arachivo de texto (`txt` `con el nombre` **key.txt**) y dentro ponga su **API key**_
+<img src="https://github.com/user-attachments/assets/3f05af33-5aa3-4603-9802-1e5d09f5194b" width="400">
+
+1. _Abra el intellij coloque los archivos dentro._
+
+2. _Abre la carpeta `src` te vas a la carpeta Principal, y das doble clic al `Principal` que se encuentra dentro_
+<img src="https://github.com/user-attachments/assets/2b524443-027e-4dfa-9c5f-9d9216e26081" width="400">
+
+3._En la parte superior derecha encontrarás el botón de run._
+
+<img src="https://github.com/user-attachments/assets/302f7269-3ce5-422c-aff8-320a1e33b9ee" width="450">
+
+# Vista previa de como funciona
+
+https://github.com/user-attachments/assets/ff74adef-d95a-4b0a-aa8e-9abe6b80e7ff
+
+## ✔️ Tecnologías utilizadas
+
+* Java
+* Gson
+  
+## Desarrolladores del Proyecto
+
+| [<img src="https://avatars.githubusercontent.com/u/174155984?v=4" width=115><br><sub>STIDjc</sub>](https://github.com/STIDjc) | [<img src="https://github.com/user-attachments/assets/6181992d-d324-4155-9537-fc046e538604" width=115><br><sub>userLeonardoLopez</sub>](https://github.com/userLeonardoLopez) |   
+| :---: | :---: |
 
 
 
@@ -45,4 +77,5 @@ _para obtener el proyecto y poder utilizarlo se necesita lo siguiente:_
 
 
 
-_El proyecto funciona mediante la APi [`Exchangerate Api`](https://www.exchangerate-api.com/) y el lenguaje de programación **JAVA**._
+
+
