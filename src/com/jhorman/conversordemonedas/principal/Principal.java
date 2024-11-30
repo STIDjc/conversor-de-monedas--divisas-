@@ -16,13 +16,13 @@ public class Principal {
         System.out.println("""
                 *************************************************************
                 *                                                           *
-                *               ¡Bienvenido a !!!                *
-                *               Este es un conversor de divisas             *
-                *           que actualiza susresultados en tiempo real.     *
+                *                 ¡Bienvenido a MoneyDual!                  *
+                *              Este es un conversor de divisas              *
+                *        que actualiza sus resultados en tiempo real.       *
                 *                                                           *
-                *             *#*# Seleccione una opción: #*#*              *
+                *              *#*# Seleccione una opción: #*#*             *
                 *               1. Convertir alguna divisa                  *
-                *                   2. Cerrar programa                      *
+                *                   2.  Cerrar programa                     *
                 *                                                           *
                 *************************************************************
                 """);
@@ -34,7 +34,13 @@ public class Principal {
                     while (!cerrarPrograma) {
                         ejecutarConversor();
 
-                        System.out.println("\n¿Desea realizar otra conversión?\n\n1. Sí😄\n2. No😭");
+                        System.out.println("\n"+
+                                "************************************\n"+
+                                "* ¿Desea realizar otra conversión? *\n"+
+                                "************************************\n"+
+                                "*            1. Sí😄               *\n"+
+                                "*            2. No😭               *\n"+
+                                "************************************");
                         opcionUsuario = validarOpcionInt(scan);
 
                         while (opcionUsuario < 1 || opcionUsuario > 2) {

@@ -28,7 +28,7 @@ public class Conversion {
 
     @Override
     public String toString() {
-        return "\nTasa de cambio del día:\n"+monedaOrigen+" $1 ==> "+monedaDestino+" $"+tasaDeConversion+
-                "\n\n¡Conversión realizada!\n"+monedaOrigen+" $"+monto+" ==> "+monedaDestino+" $"+resultado;
+        return "\nTasa de cambio del día:\n"+monedaOrigen+" $1 ==> "+monedaDestino+" $"+tasaDeConversion+"💹"+
+                "\n\n¡Conversión realizada!\n"+monedaOrigen+" $"+monto+" ==> "+monedaDestino+" $"+resultado+"💵";
     }
 }
