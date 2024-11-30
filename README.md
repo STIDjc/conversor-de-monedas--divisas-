@@ -30,7 +30,11 @@ _para obtener el proyecto y poder utilizarlo se necesita lo siguiente:_
 <img src="https://github.com/user-attachments/assets/8460ca06-d8dd-4960-bb9b-3f9e9fb14d10" width="400">
 <img src="https://github.com/user-attachments/assets/538d0278-044c-474e-9564-656121dc7a32" width="250">
 
-### Antes de contunuar con el proceso de ejecucion delo programa vamos a obtener nuestra **API key**
+### _Antes de continuar con el proceso de ejecución del programa vamos a obtener nuestra **API key**_
+
+- _Obten tu Api key: [`Exchangerate Api`](https://www.exchangerate-api.com/)._
+<img src="https://github.com/user-attachments/assets/a92bb94d-1b74-48ad-b5e9-2c340e2a210e" width="550">
+
 
 
 
